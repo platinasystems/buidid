@@ -1,0 +1,9 @@
+*~
+*#*#
+*.orig
+*.patch
+*.rej
+*.swp
+*.test
+/_obj/
+/example-buildid/go.sum
